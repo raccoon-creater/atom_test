@@ -1,1 +1,1 @@
-# atom_test
+# atomエディタとの連携
